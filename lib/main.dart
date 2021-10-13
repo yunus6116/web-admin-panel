@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       initialRoute: AuthenticationPageRoute,
       unknownRoute: GetPage(
-        name: 'nout-found',
+        name: '/not-found',
         page: () => PageNotFound(),
         transition: Transition.fadeIn,
       ),

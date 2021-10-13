@@ -2,7 +2,6 @@ import 'package:dashboard_flutter_web/components/side_menu_item.dart';
 import 'package:dashboard_flutter_web/constants/controller.dart';
 import 'package:dashboard_flutter_web/constants/style.dart';
 import 'package:dashboard_flutter_web/helpers/responsiveness.dart';
-import 'package:dashboard_flutter_web/pages/authentication/authentication.dart';
 import 'package:dashboard_flutter_web/routing/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

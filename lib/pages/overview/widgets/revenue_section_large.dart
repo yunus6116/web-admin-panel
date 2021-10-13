@@ -3,7 +3,7 @@ import 'package:dashboard_flutter_web/constants/style.dart';
 import 'package:dashboard_flutter_web/pages/overview/widgets/revenue_info.dart';
 import 'package:flutter/material.dart';
 
-import 'bar_chart.dart';
+// import 'bar_chart.dart';
 
 class RevenueSectionLarge extends StatelessWidget {
   @override
@@ -34,10 +34,10 @@ class RevenueSectionLarge extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                   color: lightGrey,
                 ),
-                Container(
-                    width: 600,
-                    height: 200,
-                    child: SimpleBarChart.withSampleData()),
+                // Container(
+                //     width: 600,
+                //     height: 200,
+                //     child: SimpleBarChart.withSampleData()),
               ],
             ),
           ),
