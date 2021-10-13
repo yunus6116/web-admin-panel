@@ -1,6 +1,5 @@
 import 'package:dashboard_flutter_web/components/custom_text.dart';
 import 'package:dashboard_flutter_web/constants/style.dart';
-import 'package:dashboard_flutter_web/layout.dart';
 import 'package:dashboard_flutter_web/routing/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

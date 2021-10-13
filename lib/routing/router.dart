@@ -1,4 +1,3 @@
-import 'package:dashboard_flutter_web/pages/authentication/authentication.dart';
 import 'package:dashboard_flutter_web/pages/clients/clients.dart';
 import 'package:dashboard_flutter_web/pages/drivers/drivers.dart';
 import 'package:dashboard_flutter_web/pages/overview/overview.dart';
